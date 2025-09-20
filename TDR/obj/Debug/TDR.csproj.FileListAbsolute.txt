@@ -1,0 +1,13 @@
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\bin\Debug\TDR.exe.config
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\bin\Debug\TDR.exe
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\bin\Debug\TDR.pdb
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.csproj.AssemblyReference.cache
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.Properties.Resources.resources
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.csproj.GenerateResource.cache
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.csproj.CoreCompileInputs.cache
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.exe
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.pdb
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.AboutForm.resources
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.exe.config
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.ViewReport.resources
+C:\Users\bfyco\OneDrive\documents\GitHub\tdr\TDR\TDR\obj\Debug\TDR.DataInput.resources

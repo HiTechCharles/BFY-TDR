@@ -1,0 +1,17 @@
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\bin\Release\TDR.exe.config
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\bin\Release\TDR.exe
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\bin\Release\TDR.pdb
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.csproj.AssemblyReference.cache
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.AboutForm.resources
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.DataInput.resources
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.Properties.Resources.resources
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.ViewReport.resources
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.csproj.GenerateResource.cache
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.csproj.CoreCompileInputs.cache
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.exe
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.pdb
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\bin\Release\TDR.exe.manifest
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\bin\Release\TDR.application
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.exe.config
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.exe.manifest
+C:\Users\bfyco\OneDrive\documents\GitHub\BFY-TDR\TDR\obj\Release\TDR.application

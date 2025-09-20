@@ -1,0 +1,5 @@
+BREW FOR YOU - TEMPERATURE LOG
+September, 2025
+
+DATE          AM    PM
+9/16/2025     40    30
